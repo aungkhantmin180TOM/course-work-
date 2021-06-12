@@ -1,1 +1,1 @@
-# cousre-work
+# course-work
