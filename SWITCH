@@ -1,0 +1,13 @@
+let average_daily_screen_time = "5hours";
+switch (average_daily_screen_time) {
+case "3hours":                                               
+alert( "It's nice,you don't spend your time on phone");                             
+break;
+case "5hours":
+  alert( "not bad!" );                                                              
+  break;
+ case"10hours":
+  alert( "you'r wasting your time on the phone,It's not good for you" );              
+  break;                                                                         
+  default:
+  alert( "destroy your phone" );}
