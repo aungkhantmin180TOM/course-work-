@@ -1,0 +1,9 @@
+let year = 18
+
+if (year < 18) {
+  alert( 'Too young to watch horror movie...' );
+} else if (year > 18) {
+  alert( 'you can watch' );
+} else {
+  alert( 'Exactly!' );
+}
